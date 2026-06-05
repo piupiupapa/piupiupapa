@@ -1,12 +1,54 @@
-- 👋 Hi, I’m @piupiupapa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm piupiupapa
 
-<!---
-piupiupapa/piupiupapa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+你好，我是 **piupiupapa**。
+
+我是一个做事偏严谨的人：喜欢把问题拆清楚，把证据看明白，把步骤写到别人真的能复现。  
+但我也不想把自己活成一份冷冰冰的说明书。认真可以，板着脸就不必了。😄
+
+## 🧭 About Me
+
+- 🔍 喜欢有结构地分析问题，也喜欢把复杂事情讲清楚。
+- 🛰️ 关注 Remote Sensing（遥感）与空间数据相关技术。
+- ☁️ 学习 Point Cloud Processing（点云处理），对三维数据、地物识别和数据表达很感兴趣。
+- 🤖 喜欢用 AI / Artificial Intelligence（人工智能）提质增效，让学习、处理和表达都更顺手。
+- 📚 偏好中文表达；遇到重要英文概念，我会习惯性地加上必要中文解释。
+
+## 🌱 What I'm Learning
+
+- 🛰️ Remote Sensing（遥感）：影像理解、数据处理与应用分析。
+- ☁️ Point Cloud Processing（点云处理）：三维点云数据的处理、分析与可视化。
+- 🤖 AI-assisted workflow（AI 辅助工作流）：用 AI 提升效率、质量和复盘能力。
+- ⚙️ Automation（自动化）：让重复劳动少一点，让人多做点真正需要判断的事。
+- 📝 Documentation（文档）：不只是写字，而是把事情讲到别人能接住。
+- 🚀 GitHub workflow（GitHub 工作流）：用 Issue（问题）、Pull Request / PR（拉取请求）和 README（项目说明）让协作更清楚。
+
+## 🧩 How I Work
+
+我喜欢这样的工作方式：
+
+1. 🎯 先确认目标，不急着开工。
+2. 🧠 再拆解问题，找到真正卡住的地方。
+3. 🧪 然后动手验证，不靠感觉硬猜。
+4. 📌 最后把过程和结论写清楚，方便以后复用。
+
+如果事情很复杂，我会尽量让它变得可检查、可复盘、可改进。  
+毕竟，“差不多”有时候很方便，但它通常不负责售后。🙂
+
+## 💡 Current Interests
+
+- 🛰️ 遥感数据处理与应用。
+- ☁️ 点云处理、三维数据分析与可视化。
+- 🤖 用 AI 工具提升学习、写作、开发和资料整理效率。
+- 🗂️ 建立更可靠的个人知识管理方式。
+- 🧾 让技术内容更像人话，而不是像一台打印机刚学会说话。
+- 🧱 做一些小而实用的项目，慢慢把想法变成可以运行的东西。
+
+## 📫 Contact
+
+目前可以通过 GitHub 与我联系。  
+欢迎交流遥感、点云处理、AI 提效、工具使用、学习方法，或者任何认真但不必过分严肃的想法。
+
+---
+
+> 🧠 Rigorous, but not boring.  
+> 严谨，但不无聊。
